@@ -1,6 +1,6 @@
 # Basic SCSS Compiler
 
-Listed below are instructions for compiling *```.scss```* files into *```.css```* files. In this example, we will compile the *```bootstrap.scss```* file to the *```bootstrap.css```* file. The newly compiled CSS file will only include the 'form' styling specified in the *```bootstrap.scss```* file (ex: *```@import "forms"```*)
+Listed below are instructions for compiling *```.scss```* files into *```.css```* files. In this example, we will compile *```bootstrap.scss```* to *```bootstrap.css```*. The newly compiled CSS file will only include the 'form' styling specified in the *```bootstrap.scss```* file (ex: *```@import "forms"```*)
 
 ## Libraries
 
@@ -10,7 +10,7 @@ Listed below are instructions for compiling *```.scss```* files into *```.css```
 ## Installation Instructions
 
  - Download & install [Node.js](https://nodejs.org/en/download/)
- - Install node-sass via Command Line: *```npm install -g node-sass```*
+ - Install *```node-sass```* via command line: *```npm install -g node-sass```*
 
 ## Compiler Instructions
 
