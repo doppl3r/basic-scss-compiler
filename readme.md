@@ -14,18 +14,18 @@ Listed below are instructions for compiling *```.scss```* files into *```.css```
 
 ## Compiler Instructions
 
- - How to Start a SCSS File Watcher:
-   - Open command line
-   - Run: *```npm run scss```*
-
  - How to Manually Compile SCSS to CSS:
-   - Open command line
+   - Open command line within the root folder
    - Run: *```node-sass bootstrap.scss bootstrap.css```*
 
- - How to Quickly Watch SCSS folder:
-   - Open File Explorer
-   - Open the *```"watch.bat"```* file inside the root folder
+ - How to Start a SCSS File Watcher:
+   - Open command line within the root folder
+   - Run: *```npm run scss```*
 
  - How to Quickly Compile SCSS to CSS folder:
    - Open File Explorer
    - Open the *```"compile.bat"```* file inside the root folder
+
+ - How to Quickly Watch SCSS folder:
+   - Open File Explorer
+   - Open the *```"watch.bat"```* file inside the root folder
