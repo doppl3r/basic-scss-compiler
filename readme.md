@@ -1,6 +1,6 @@
 # Basic SCSS Compiler
 
-Listed below are instructions for compiling *```.scss```* files into *```.css```* files. In this example, we will compile the *```bootstrap.scss```* file to the *```bootstrap.css```* file.
+Listed below are instructions for compiling *```.scss```* files into *```.css```* files. In this example, we will compile the *```bootstrap.scss```* file to the *```bootstrap.css```* file. The newly compiled CSS file will only include the 'form' styling specified in the *```bootstrap.scss```* file (ex: *```@import "forms"```*)
 
 ## Libraries
 
@@ -29,4 +29,3 @@ Listed below are instructions for compiling *```.scss```* files into *```.css```
  - How to Quickly Compile SCSS to CSS folder:
    - Open File Explorer
    - Open the *```"compile.bat"```* file inside the root folder
-   
